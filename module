@@ -1,0 +1,15 @@
+{
+  "name": "heavyarmsthecompletearmorershandbook",
+  "title": "Heavyarms The Complete Armorers Handbook Properties",
+  "description": "Adds heavyarms the complete armorers handbook new weapon and armour properties",
+  "version": "0.1",
+  "author": "Luke Butcher",
+  "systems": ["dnd5e"],
+  "styles": [],
+  "scripts": ["heavyarmsthecompletearmorershandbook.js"],
+  "manifest": "",
+  "download": "",
+  "minimumCoreVersion": "",
+  "compatibleCoreVersion": ""
+}
+
