@@ -7,9 +7,9 @@
   "systems": ["dnd5e"],
   "styles": [],
   "scripts": ["heavyarmsthecompletearmorershandbook.js"],
-  "manifest": "",
-  "download": "",
-  "minimumCoreVersion": "",
-  "compatibleCoreVersion": ""
+  "manifest": "https://raw.githubusercontent.com/Luke-Butcher/HeavyarmsTheCompleteArmorersHandbookProperties/main/module.json",
+  "download": "https://github.com/Luke-Butcher/HeavyarmsTheCompleteArmorersHandbookProperties/archive/main.zi",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.7.9"
 }
 
